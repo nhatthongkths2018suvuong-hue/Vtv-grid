@@ -1,3 +1,0 @@
-# Mỗi dòng một link kênh. Có thể đặt tên trước dấu | (không bắt buộc).
-# App chỉ đọc file này tại: /media/developer/apps/usr/palm/applications/com.vtv.grid/channels.txt
-https://vtvgo.vn/channel/3
