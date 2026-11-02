@@ -1,3 +1,51 @@
-# Mỗi dòng một link kênh. Có thể đặt tên trước dấu | (không bắt buộc).
-# App chỉ đọc file này tại: /media/developer/apps/usr/palm/applications/com.vtv.grid/channels.txt
-https://vtvgo.vn/channel/3
+VTV1|https://vtvgo.vn/channel/1
+VTV2|https://vtvgo.vn/channel/2
+VTV3|https://vtvgo.vn/channel/3
+VTV4|https://vtvgo.vn/channel/4
+VTV5|https://vtvgo.vn/channel/5
+VTV6|https://vtvgo.vn/channel/13
+VTV7|https://vtvgo.vn/channel/27
+VTV8|https://vtvgo.vn/channel/36
+VTV9|https://vtvgo.vn/channel/39
+VTV10|https://vtvgo.vn/channel/6
+Viet Nam Today|https://vtvgo.vn/channel/vietnamtoday
+VTV5 Tay Nam Bo|https://vtvgo.vn/channel/7
+VTV5 Tay Nguyen|https://vtvgo.vn/channel/163
+Lang Son|https://vtvgo.vn/channel/321
+ANTV|https://vtvgo.vn/channel/89
+QPVN|https://vtvgo.vn/channel/103
+Ha Noi 1|https://vtvgo.vn/channel/111
+Ha Noi 2|https://vtvgo.vn/channel/17
+Hung Yen|https://vtvgo.vn/channel/185
+Thanh Hoa|https://vtvgo.vn/channel/181
+Nghe An|https://vtvgo.vn/channel/121
+Phu Tho|https://vtvgo.vn/channel/229
+An Giang|https://vtvgo.vn/channel/231
+Ninh Binh|https://vtvgo.vn/channel/183
+Quang Ninh 1|https://vtvgo.vn/channel/119
+Quang Ninh 3|https://vtvgo.vn/channel/120
+DNRT 1|https://vtvgo.vn/channel/175
+DN1 NRTV|https://vtvgo.vn/channel/234
+Dong Thap|https://vtvgo.vn/channel/133
+Khanh Hoa|https://vtvgo.vn/channel/125
+Lai Chau|https://vtvgo.vn/channel/228
+Tay Ninh|https://vtvgo.vn/channel/255
+Thai Nguyen|https://vtvgo.vn/channel/238
+Hue|https://vtvgo.vn/channel/127
+Ca Mau|https://vtvgo.vn/channel/218
+Dak Lak|https://vtvgo.vn/channel/221
+Hai Phong|https://vtvgo.vn/channel/444
+Dien Bien|https://vtvgo.vn/channel/230
+Bac Ninh|https://vtvgo.vn/channel/219
+Lam Dong|https://vtvgo.vn/channel/224
+Can Tho|https://vtvgo.vn/channel/243
+Vinh Long 1|https://vtvgo.vn/channel/10009
+HTV9|https://vtvgo.vn/channel/10068
+Quang Ngai|https://vtvgo.vn/channel/145_nb
+Son La|https://vtvgo.vn/channel/254
+Tuyen Quang|https://vtvgo.vn/channel/235
+GTV|https://vtvgo.vn/channel/223
+Quang Tri|https://vtvgo.vn/channel/236
+Lao Cai|https://vtvgo.vn/channel/247
+Cao Bang|https://vtvgo.vn/channel/555
+Ha Tinh|https://vtvgo.vn/channel/333
