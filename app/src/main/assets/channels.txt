@@ -1,53 +1,60 @@
 #quality=1080
-VTV1|https://vtvgo.vn/channel/1
-VTV2|https://vtvgo.vn/channel/2
-VTV3|https://vtvgo.vn/channel/3
-VTV4|https://vtvgo.vn/channel/4
-VTV5|https://vtvgo.vn/channel/5
-VTV6|https://vtvgo.vn/channel/13
-VTV7|https://vtvgo.vn/channel/27
-VTV8|https://vtvgo.vn/channel/36
-VTV9|https://vtvgo.vn/channel/39
-VTV10|https://vtvgo.vn/channel/6
-Viet Nam Today|https://vtvgo.vn/channel/vietnamtoday
-VTV5 Tay Nam Bo|https://vtvgo.vn/channel/7
-VTV5 Tay Nguyen|https://vtvgo.vn/channel/163
-Lang Son|https://vtvgo.vn/channel/321
-ANTV|https://vtvgo.vn/channel/89
-QPVN|https://vtvgo.vn/channel/103
-Ha Noi 1|https://vtvgo.vn/channel/111
-Ha Noi 2|https://vtvgo.vn/channel/17
-Hung Yen|https://vtvgo.vn/channel/185
-Thanh Hoa|https://vtvgo.vn/channel/181
-Nghe An|https://vtvgo.vn/channel/121
-Phu Tho|https://vtvgo.vn/channel/229
-An Giang|https://vtvgo.vn/channel/231
-Ninh Binh|https://vtvgo.vn/channel/183
-Quang Ninh 1|https://vtvgo.vn/channel/119
-Quang Ninh 3|https://vtvgo.vn/channel/120
-DNRT 1|https://vtvgo.vn/channel/175
-DN1 NRTV|https://vtvgo.vn/channel/234
-Dong Thap|https://vtvgo.vn/channel/133
-Khanh Hoa|https://vtvgo.vn/channel/125
-Lai Chau|https://vtvgo.vn/channel/228
-Tay Ninh|https://vtvgo.vn/channel/255
-Thai Nguyen|https://vtvgo.vn/channel/238
-Hue|https://vtvgo.vn/channel/127
-Ca Mau|https://vtvgo.vn/channel/218
-Dak Lak|https://vtvgo.vn/channel/221
-Hai Phong|https://vtvgo.vn/channel/444
-Dien Bien|https://vtvgo.vn/channel/230
-Bac Ninh|https://vtvgo.vn/channel/219
-Lam Dong|https://vtvgo.vn/channel/224
-Can Tho|https://vtvgo.vn/channel/243
-Vinh Long 1|https://vtvgo.vn/channel/10009
-HTV9|https://vtvgo.vn/channel/10068
-Quang Ngai|https://vtvgo.vn/channel/145_nb
-Son La|https://vtvgo.vn/channel/254
-Tuyen Quang|https://vtvgo.vn/channel/235
-GTV|https://vtvgo.vn/channel/223
-Quang Tri|https://vtvgo.vn/channel/236
-Lao Cai|https://vtvgo.vn/channel/247
-Cao Bang|https://vtvgo.vn/channel/555
-Ha Tinh|https://vtvgo.vn/channel/333
-
+VTV1|https://vtvgo.vn/channel/vtv1
+VTV2|https://vtvgo.vn/channel/vtv2
+VTV3|https://vtvgo.vn/channel/vtv3
+VTV4|https://vtvgo.vn/channel/vtv4
+VTV5|https://vtvgo.vn/channel/vtv5
+VTV6|https://vtvgo.vn/channel/vtv6
+VTV7|https://vtvgo.vn/channel/vtv7
+VTV8|https://vtvgo.vn/channel/vtv8
+VTV9|https://vtvgo.vn/channel/vtv9
+VTV10|https://vtvgo.vn/channel/vtv10
+Viet Nam Today|https://vtvgo.vn/channel/vietnam-today
+VTV5 Tây Nam Bộ|https://vtvgo.vn/channel/vtv5-tay-nam-bo
+VTV5 Tây Nguyên|https://vtvgo.vn/channel/vtv5-tay-nguyen
+VTV Vui vẻ|https://vtvgo.vn/channel/vtvgo-vui-ve
+VTV Phim truyện|https://vtvgo.vn/channel/vtvgo-phim-truyen
+VTV Phim tài liệu|https://vtvgo.vn/channel/vtvgo-phim-tai-lieu
+VTV Ca nhạc|https://vtvgo.vn/channel/vtvgo-ca-nhac
+VTV Game show|https://vtvgo.vn/channel/vtvgo-game-show
+VTV Du lịch|https://vtvgo.vn/channel/vtvgo-du-lich-trai-nghiem-kham-pha
+VTV Sức khỏe|https://vtvgo.vn/channel/vtvgo-suc-khoe
+VTV Thiếu nhi|https://vtvgo.vn/channel/vtvgo-thieu-nhi
+ANTV|https://vtvgo.vn/channel/truyen-hinh-cong-an-nhan-dan
+QPVN|https://vtvgo.vn/channel/truyen-hinh-quoc-phong-viet-nam
+Hà Nội 1|https://vtvgo.vn/channel/truyen-hinh-ha-noi-1
+Hà Nội 2|https://vtvgo.vn/channel/truyen-hinh-ha-noi-2
+Hưng Yên|https://vtvgo.vn/channel/truyen-hinh-hung-yen
+Thanh Hóa|https://vtvgo.vn/channel/truyen-hinh-thanh-hoa
+Nghệ An|https://vtvgo.vn/channel/truyen-hinh-nghe-an
+Phú Thọ|https://vtvgo.vn/channel/truyen-hinh-phu-tho
+An Giang|https://vtvgo.vn/channel/truyen-hinh-an-giang
+Ninh Bình|https://vtvgo.vn/channel/truyen-hinh-ninh-binh
+Quảng Ninh 1|https://vtvgo.vn/channel/truyen-hinh-quang-ninh-1
+Quảng Ninh 3|https://vtvgo.vn/channel/truyen-hinh-quang-ninh-3
+Đà Nẵng|https://vtvgo.vn/channel/truyen-hinh-da-nang-1
+Đồng Nai|https://vtvgo.vn/channel/truyen-hinh-dong-nai-1
+Đồng Tháp|https://vtvgo.vn/channel/truyen-hinh-dong-thap-1
+Khánh Hòa|https://vtvgo.vn/channel/truyen-hinh-khanh-hoa
+Lai Châu|https://vtvgo.vn/channel/truyen-hinh-lai-chau
+Tây Ninh|https://vtvgo.vn/channel/truyen-hinh-tay-ninh-1
+Thái Nguyên|https://vtvgo.vn/channel/truyen-hinh-thai-nguyen
+Huế|https://vtvgo.vn/channel/dai-ptth-tinh-thua-thien-hue
+Cà Mau|https://vtvgo.vn/channel/truyen-hinh-ca-mau
+Đắk Lắk|https://vtvgo.vn/channel/truyen-hinh-dak-lak
+Hải Phòng|https://vtvgo.vn/channel/truyen-hinh-hai-phong
+Điện Biên|https://vtvgo.vn/channel/truyen-hinh-dien-bien
+Bắc Ninh|https://vtvgo.vn/channel/truyen-hinh-bac-ninh
+Lâm Đồng|https://vtvgo.vn/channel/truyen-hinh-lam-dong
+Lạng Sơn|https://vtvgo.vn/channel/truyen-hinh-lang-son-2
+Cần Thơ|https://vtvgo.vn/channel/truyen-hinh-can-tho-1
+Vĩnh Long 1|https://vtvgo.vn/channel/truyen-hinh-vinh-long-1
+HTV9|https://vtvgo.vn/channel/truyen-hinh-htv9
+Quảng Ngãi|https://vtvgo.vn/channel/truyen-hinh-quang-ngai-1
+Sơn La|https://vtvgo.vn/channel/truyen-hinh-son-la
+Tuyên Quang|https://vtvgo.vn/channel/truyen-hinh-tuyen-quang
+Gia Lai|https://vtvgo.vn/channel/truyen-hinh-gia-lai
+Quảng Trị|https://vtvgo.vn/channel/truyen-hinh-quang-tri
+Lào Cai|https://vtvgo.vn/channel/truyen-hinh-lao-cai
+Cao Bằng|https://vtvgo.vn/channel/truyen-hinh-cao-bang
+Hà Tĩnh|https://vtvgo.vn/channel/truyen-hinh-ha-tinh
